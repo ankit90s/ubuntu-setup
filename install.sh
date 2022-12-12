@@ -25,7 +25,7 @@ sudo apt install -y exa
 sudo apt install -y kitty
 
 # terminal blings
-sudo apt install -y htop neofetch ranger cmatrix espeak ncdu hddtemp translate-shell
+sudo apt install -y htop neofetch ranger cmatrix espeak ncdu translate-shell
 
 # Text editor
 sudo apt install -y neovim
