@@ -118,3 +118,5 @@ fi
 
 eval "$(starship init bash)"
 uname -mrs
+. "$HOME/.cargo/env"
+source ~/.bash_completion/alacritty
