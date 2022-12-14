@@ -2,7 +2,7 @@
 alias vi='nvim'
 
 # clear screen alias
-alias c='clear && uname -mrs'
+alias c='clear && pfetch'
 
 # change directory
 alias ..='cd ..'

@@ -117,6 +117,7 @@ if ! shopt -oq posix; then
 fi
 
 eval "$(starship init bash)"
-uname -mrs
+
+pfetch
 . "$HOME/.cargo/env"
 source ~/.bash_completion/alacritty
